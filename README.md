@@ -1,7 +1,7 @@
 # Anjalika-SQL-RSVP-IMBD-Assignment
 # SQL RSVP IMBD Assignment 📊
 
-This repository contains an SQL-based project completed by Anjalika and Ajit as part of a data analysis assignment using RSVP IMDB data.
+This repository contains an SQL-based project  as part of a data analysis assignment using RSVP IMDB data.
 
 ## 📁 Folder Contents
 
